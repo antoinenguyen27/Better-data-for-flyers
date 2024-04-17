@@ -1,2 +1,7 @@
-# betterFlyers
-Gather data on who scans your flyers, with data on location, multiple flyer campagin and frequency. This repo only includes the frontend mobile appliation
+# paperboyRouter
+
+A new Flutter project.
+
+## Getting Started
+
+FlutterFlow projects are built to run on the Flutter _stable_ release.
