@@ -1,0 +1,302 @@
+{
+  "project_info": {
+    "project_number": "252243585716",
+    "project_id": "busky-2e2fc",
+    "storage_bucket": "busky-2e2fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:252243585716:android:2629002f83d121b931c5e1",
+        "android_client_info": {
+          "package_name": "com.loakal.loakalbusiness"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "252243585716-eacara7fsv4a480fn94tfiin91h36sd1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.loakal.loakalbusiness",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "252243585716-mepf790valnfu3skgptf94qnicgp5i7k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBG0dNMqA9wiy05oZIl6-ztqhp6Pj537T4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "252243585716-mepf790valnfu3skgptf94qnicgp5i7k.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "252243585716-ahb7l961kpcn4tkd5k4oc5k4obncvc7g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.loakaldownloadrouter"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:252243585716:android:e15ed8b7516c677331c5e1",
+        "android_client_info": {
+          "package_name": "com.mycompany.loakalbusiness"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "252243585716-qu0t6abbk29de9prlih8t511b8tsdir3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.loakalbusiness",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "252243585716-mepf790valnfu3skgptf94qnicgp5i7k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBG0dNMqA9wiy05oZIl6-ztqhp6Pj537T4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "252243585716-mepf790valnfu3skgptf94qnicgp5i7k.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "252243585716-ahb7l961kpcn4tkd5k4oc5k4obncvc7g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.loakaldownloadrouter"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:252243585716:android:8f42351f59ca573031c5e1",
+        "android_client_info": {
+          "package_name": "com.mycompany.loakaldownloadrouter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "252243585716-3kbnq7p0qmtn2jfcv0q9atfn51inpj9r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.loakaldownloadrouter",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "252243585716-mepf790valnfu3skgptf94qnicgp5i7k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBG0dNMqA9wiy05oZIl6-ztqhp6Pj537T4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "252243585716-mepf790valnfu3skgptf94qnicgp5i7k.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "252243585716-ahb7l961kpcn4tkd5k4oc5k4obncvc7g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.loakaldownloadrouter"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:252243585716:android:830417665e71318f31c5e1",
+        "android_client_info": {
+          "package_name": "com.mycompany.loakalonboarding"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "252243585716-ltvln034j9asj96m5g82sppma0j6hemi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.loakalonboarding",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "252243585716-mepf790valnfu3skgptf94qnicgp5i7k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBG0dNMqA9wiy05oZIl6-ztqhp6Pj537T4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "252243585716-mepf790valnfu3skgptf94qnicgp5i7k.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "252243585716-ahb7l961kpcn4tkd5k4oc5k4obncvc7g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.loakaldownloadrouter"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:252243585716:android:335be0c7ab6716bd31c5e1",
+        "android_client_info": {
+          "package_name": "com.mycompany.loakalwebportal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "252243585716-ce48qkbsk15ec13lntgvk6s46vfpv3qs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.loakalwebportal",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "252243585716-mepf790valnfu3skgptf94qnicgp5i7k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBG0dNMqA9wiy05oZIl6-ztqhp6Pj537T4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "252243585716-mepf790valnfu3skgptf94qnicgp5i7k.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "252243585716-ahb7l961kpcn4tkd5k4oc5k4obncvc7g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.loakaldownloadrouter"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:252243585716:android:d308d103440326c331c5e1",
+        "android_client_info": {
+          "package_name": "com.mycompany.paperboyrouter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "252243585716-mepf790valnfu3skgptf94qnicgp5i7k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBG0dNMqA9wiy05oZIl6-ztqhp6Pj537T4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "252243585716-mepf790valnfu3skgptf94qnicgp5i7k.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "252243585716-ahb7l961kpcn4tkd5k4oc5k4obncvc7g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.loakaldownloadrouter"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:252243585716:android:e113938748eeec3931c5e1",
+        "android_client_info": {
+          "package_name": "com.mycompany.yourlocal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "252243585716-mepf790valnfu3skgptf94qnicgp5i7k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBG0dNMqA9wiy05oZIl6-ztqhp6Pj537T4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "252243585716-mepf790valnfu3skgptf94qnicgp5i7k.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "252243585716-ahb7l961kpcn4tkd5k4oc5k4obncvc7g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.loakaldownloadrouter"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
